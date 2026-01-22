@@ -43,5 +43,5 @@ scikit-learn
 
 
 7)  Course
- CIS 380
+ CIS 381
 Lab: ANN with Stochastic Gradient Descent
